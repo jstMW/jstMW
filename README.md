@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 A random joke!
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
