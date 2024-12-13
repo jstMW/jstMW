@@ -14,6 +14,9 @@ A random joke!
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!--stat, strikes, thanks to https://github.com/denvercoder1/github-readme-streak-stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=jstWM&theme=yeblu&hide_border=true)](https://git.io/streak-stats)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue)
 
