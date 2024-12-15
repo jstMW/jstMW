@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-<!--Thanks to https://github.com/ABSphreak/readme-jokes-->
+Thanks to https://github.com/ABSphreak/readme-jokes
 A random joke!
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
