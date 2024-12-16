@@ -19,13 +19,15 @@ A random joke! </br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=jstWM&theme=yeblu&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 5.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 38 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,5 +93,5 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2024 18:44:14 UTC
+ Last Updated on 16/12/2024 18:47:32 UTC
 <!--END_SECTION:waka-->
