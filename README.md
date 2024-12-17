@@ -9,14 +9,17 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-Thanks to 
-<img width="30" hight="30" alt="github_ABSphreak_profile_picture" src="https://github.com/ABSphreak.png">
+<!-- Start of jokes card -->
+Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src="https://github.com/ABSphreak.png">
 A random joke! </br>
-<!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- end of jokes card -->
 
-<!--stat, strikes, thanks to https://github.com/denvercoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=jstMW&theme=yeblu&hide_border=true)](https://git.io/streak-stats)
+<!--Start of github streak -->
+Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src="https://github.com/DenverCoder1.png">
+</br>
+![GitHub Streak](https://streak-stats.demolab.com?user=jstMW&theme=yeblu&hide_border=true)
+<!-- end of github streak -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20mins-blue)
