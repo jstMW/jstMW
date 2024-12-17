@@ -4,10 +4,7 @@
 - 🌱 I’m currently learning Hacking stuff
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Creating and maintaining Network of supportive people
-- 💬 Ask me about Anything
 - 📫 How to reach me: Email: tellme.derby529@passmail.net
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!-- Start of jokes card -->
 Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src="https://github.com/ABSphreak.png">
