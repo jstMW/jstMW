@@ -13,7 +13,7 @@ A random joke! </br>
 <!-- end of jokes card -->
 
 <!--Start of github streak -->
-Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src="https://github.com/DenverCoder1.png">
+Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src="https://github.com/DenverCoder1.png"> take a look at my github streaks
 </br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=jstMW&theme=yeblu&hide_border=true)
 <!-- end of github streak -->
