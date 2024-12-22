@@ -1,9 +1,9 @@
 ## Hi there 👋 ***Under construction*** TESTING...
 
-![Github Stats](#Github-stats)
-![My Website](#My-website)
-![About Me](#About-me)
-![Did you like this?](#how to look cool)
+**![Github Stats](#Github-stats)</br>**
+**![My Website](#My-website)</br>**
+**![About Me](#About-me)</br>**
+**![How to look cool](#how-to-look-cool)</br>**
 
 
 
