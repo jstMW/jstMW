@@ -1,12 +1,11 @@
 ## Hi there 👋 ***Under construction*** TESTING...
 
 ![Github Stats](#Github-stats)
+![My Website](#My-website)
+![About Me](#About-me)
+![Did you like this?](#how to look cool)
 
-- 🔭 I’m currently working on Interpersonal skills
-- 🌱 I’m currently learning Hacking stuff
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Creating and maintaining Network of supportive people
-- 📫 How to reach me: Email: tellme.derby529@passmail.net
+
 
 # Awesome-APIs
 ## random joke card
@@ -18,6 +17,9 @@ A random joke! </br>
 ## something else
 
 # Github-stats
+
+## Wakatime
+## Github-streak
 <!--Start of github streak -->
 Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src="https://github.com/DenverCoder1.png"> take a look at my github streaks
 </br>
@@ -91,6 +93,8 @@ Java                     1 repo              ████████░░░�
 Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
+# How-to-look-cool
+# About-me
 
 
 **Timeline**
