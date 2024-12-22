@@ -1,6 +1,6 @@
 ## Hi there 👋 ***Under construction*** TESTING...
 
-**[Github Stats] (#Github-stats)**
+![Github Stats](#Github-stats)
 
 - 🔭 I’m currently working on Interpersonal skills
 - 🌱 I’m currently learning Hacking stuff
