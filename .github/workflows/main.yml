@@ -10,7 +10,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: ../actions/wakatime-readme-stat
+      - uses: actions/checkout@v1
+      - uses: .github/actions/wakaime-readme-stat@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
