@@ -17,7 +17,7 @@ A random joke! </br>
 <!-- end of jokes card -->
 ## something else
 
-## Github-stats
+# Github-stats
 <!--Start of github streak -->
 Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src="https://github.com/DenverCoder1.png"> take a look at my github streaks
 </br>
