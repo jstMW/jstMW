@@ -11,7 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - uses: ./.github/actions/wakatime-readme-stat/
+      - name: Set up QEMU for ARM
+        run: |
+          docker run --rm --privileged multiarch/qemu-user-static --reset -p yes
+
+      - name: Run ARM Ubuntu Container
+        run: |
+          docker run --rm -t arm64v8/ubuntu:20.04 uname -m
+
+          
+      - uses: ./.github/actions/wakatime-readme-stat/ 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
