@@ -36,7 +36,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 > 📦 5.2 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2024
+> 🏆 52 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -102,7 +102,7 @@ Python                   1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 18:42:14 UTC
+ Last Updated on 22/12/2024 18:44:46 UTC
 <!--END_SECTION:waka-->
 
 
