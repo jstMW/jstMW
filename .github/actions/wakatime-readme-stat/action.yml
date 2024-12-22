@@ -30,7 +30,7 @@ inputs:
   SHOW_OS:
     required: false
     description: 'Show the list of OS Worked on In dev metrics'
-    default: "True"
+    default: "False"
 
   SHOW_PROJECTS:
     required: false
@@ -45,7 +45,7 @@ inputs:
   SHOW_TIMEZONE:
     required: false
     description: 'Show the time zone in the dev metrics'
-    default: "True"
+    default: "False"
 
   SHOW_COMMIT:
     required: false
