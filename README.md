@@ -1,4 +1,5 @@
-## Hi there 👋 ***Under construction*** TESTING...
+## Welcome adventurer 👋  Under construction!  TESTING...  
+
 
 **![Github Stats](#Github-stats)</br>**
 **![My Website](#My-website)</br>**
