@@ -8,11 +8,11 @@ inputs:
     required: true
     default: ${{ github.token }}
 
-  WAKATIME_API_KEY:
+  WAKAPI_API_KEY:
     description: 'Your Wakatime API Key'
     required: true
     
-  WAKATIME_USER:
+  WAKAPI_USER:
     description: 'your wakapi username'
     required: true
     
