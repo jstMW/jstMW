@@ -1,6 +1,12 @@
 ## Welcome adventurer 👋  Under construction!  TESTING...  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jstMW&theme=ambient_gradient)]()
+# About me
+Just A regular student mostly depressed, sometimes have a bit of energy to study... hopefully 🥲
+## Hobbies
+ ![Hobbies](https://img.shields.io/badge/Hobbies-Reading%20|%20Tar%20|%20Gym%20|%20Cooking%20|%20Walk'nTalk-FF69B4?style=for-the-badge&color=pink)
+
+## 📫 How to reach me: 
+-  Email: tellme.derby529@passmail.net
 <details>
  
 <summary>Want a joke?</summary>
@@ -13,12 +19,19 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 </details>
 
+## see some stats?
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jstMW&theme=ambient_gradient)]()
+
+## current projects 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=NoobyAPI&theme=ambient_gradient)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=newface&theme=ambient_gradient)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=newsoul&theme=ambient_gradient)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=tackleet&theme=ambient_gradient)
 
-## Wakapi
+
+
+
+## more stat of me by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2023%20mins-blue)
 
@@ -95,5 +108,3 @@ Python                   1 repo              ████████░░░�
 
 # About-me
 
-## 📫 How to reach me: 
--  Email: tellme.derby529@passmail.net
