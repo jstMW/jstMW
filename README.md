@@ -4,7 +4,7 @@
 **![Github Stats](#Github-stats)</br>**
 **![My Website](#My-website)</br>**
 **![About Me](#About-me)</br>**
-**![How to look cool](#how-to-look-cool)</br>**
+
 
 
 
@@ -98,7 +98,7 @@ Python                   1 repo              ████████░░░�
 <!--END_SECTION:waka-->
 
 
-# How-to-look-cool
-
 # About-me
-📫 How to reach me: Email: tellme.derby529@passmail.net
+
+## 📫 How to reach me: 
+-  Email: tellme.derby529@passmail.net
