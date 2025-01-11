@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: ./.github/actions/wakatime-readme-stat/ 
         with:
-          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           WAKAPI_URL: ${{ secrets.WAKAPI_URL }}
           WAKAPI_USER: ${{ secrets.WAKAPI_USER }}
