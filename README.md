@@ -13,6 +13,11 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 </details>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=NoobyAPI&theme=ambient_gradient)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=newface&theme=ambient_gradient)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=newsoul&theme=ambient_gradient)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=tackleet&theme=ambient_gradient)
+
 ## Wakapi
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2023%20mins-blue)
