@@ -3,7 +3,7 @@
 # About me
 Just A regular student mostly depressed, sometimes have a bit of energy to study... hopefully 🥲
 ## Hobbies
- ![Hobbies](https://img.shields.io/badge/Hobbies-Reading%20|%20Tar%20|%20Gym%20|%20Cooking%20|%20Walk'nTalk-FF69B4?style=for-the-badge&color=pink)
+ ![Hobbies](https://img.shields.io/badge/Hobbies-Reading%20|%20Tar%20|%20Gym%20|%20Cooking%20|%20Walk'nTalk-FF69B4?style=for-the-badge&color=red)
 
 ## 📫 How to reach me: 
 -  Email: tellme.derby529@passmail.net
