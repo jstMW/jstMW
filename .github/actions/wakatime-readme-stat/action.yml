@@ -11,9 +11,13 @@ inputs:
   WAKATIME_API_KEY:
     description: 'Your Wakatime API Key'
     required: true
-
+    
+  WAKATIME_USER:
+    description: 'your wakapi username'
+    required: true
+    
   WAKAPI_URL:
-    description: 'url of hosted wakapi'
+    description: 'url of where you hosted wakapi'
     required: true
     
   SECTION_NAME:
