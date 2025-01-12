@@ -31,7 +31,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 
 
-## more stat of me by Wakapi hosted at my website :)
+## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2049%20mins-blue)
 
@@ -109,7 +109,3 @@ TypeScript               1 repo              ████░░░░░░░�
 
  Last Updated on 12/01/2025 02:36:23 UTC
 <!--END_SECTION:waka-->
-
-
-# About-me
-
