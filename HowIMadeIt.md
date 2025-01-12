@@ -2,11 +2,22 @@
 
 ## Docker Image
 
-Concepts:
 
-Commands:
- docker build --platform linux/amd64 . -f Dockerfile -t lonelydcok/wakapi-readme-stat
+
+### Commands:
+ ```bash
+docker build --platform linux/amd64 . -f Dockerfile -t lonelydcok/wakapi-readme-stat
 docker push lonelydcok/wakapi-readme-stat:latest
+```
+
+### secrets for wakapi-readme-stat
+- GH_TOKEN
+- WAKAPI_API_KEY
+  - wakapi api key **no need to encode it!**
+- WAKAPI_URL
+  - url that you host your wakapi server
+- WAKAPI_USRE
+  - your wakapi username
 
 ## Github workflow
 
@@ -29,8 +40,6 @@ https://github.com/anmol098/waka-readme-stats/pull/525/files#conversations-menu 
 ## add systemd/system/wakapi.service
 
 ## install go azure
-
-## install things on azure is hard :((((()))))
 
 ## folow the instructions
 
