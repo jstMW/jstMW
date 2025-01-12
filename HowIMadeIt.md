@@ -1,16 +1,14 @@
 <https://romanzipp.com/blog/maocs-sequoia-docker-resetta-is-only-intended-to-run-silicon>
 
-## Docker Image
+# wakapi-readme-stat
+
+## what is it?
+A modified fork of [wakatime-readme-stat from ](https://github.com/anmol098/waka-readme-stats), it is now able to
+ - use your own hosted [wakapi server](https://github.com/muety/wakapi)
+ - [closed pr](https://github.com/anmol098/waka-readme-stats/pull/525/files#conversations-menu)
 
 
-
-### Commands:
- ```bash
-docker build --platform linux/amd64 . -f Dockerfile -t lonelydcok/wakapi-readme-stat
-docker push lonelydcok/wakapi-readme-stat:latest
-```
-
-### secrets for wakapi-readme-stat
+## secrets for wakapi-readme-stat
 - GH_TOKEN
 - WAKAPI_API_KEY
   - wakapi api key **no need to encode it!**
@@ -19,13 +17,23 @@ docker push lonelydcok/wakapi-readme-stat:latest
 - WAKAPI_USRE
   - your wakapi username
 
+## Docker Image
+
+I just use the fork code for now I upload the docker image to [my dockerhub](https://hub.docker.com/r/lonelydcok/wakapi-readme-stat)
+
+### Commands:
+to make you own:
+ ```bash
+docker build --platform linux/amd64 . -f Dockerfile -t your_own_repo
+docker push your_own_repo
+```
+then add that in github workflow config
+
 ## Github workflow
 
 Chalenges:
 issues:
 
-## Cosumization
-https://github.com/anmol098/waka-readme-stats/pull/525/files#conversations-menu ***add custome url***
 
 # selfHosting Wakapi
 
