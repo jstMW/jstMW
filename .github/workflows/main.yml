@@ -14,6 +14,7 @@ jobs:
       - uses: ./.github/actions/wakatime-readme-stat/ 
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        env:
           WAKAPI_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
           WAKAPI_URL: ${{ secrets.WAKAPI_URL }}
           WAKAPI_USER: ${{ secrets.WAKAPI_USER }}
