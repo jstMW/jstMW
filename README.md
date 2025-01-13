@@ -27,7 +27,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=newface&theme=ambient_gradient)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=newsoul&theme=ambient_gradient)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=tackleet&theme=ambient_gradient)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jstMW&repo=waka-readme-stats&theme=ambient_gradient)
 
 
 
