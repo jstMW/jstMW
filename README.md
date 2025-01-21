@@ -33,15 +33,13 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 34.1 kB Used in GitHub's Storage 
- > 
-> 🏆 28 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -74,16 +72,17 @@ Sunday                   37 commits          ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   0 hrs 26 mins       ██████████████████████░░░   86.50 % 
-unknown                  0 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Bash                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   0 hrs 28 mins       ██████████████████████░░░   87.13 % 
+unknown                  0 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Bash                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-Neovim                   0 hrs 30 mins       █████████████████████████   100.00 % 
+Neovim                   0 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-telerok                  0 hrs 24 mins       █████████████████████░░░░   82.11 % 
-unknown                  0 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+telerok                  0 hrs 24 mins       ███████████████████░░░░░░   76.72 % 
+unknown                  0 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+waka-readme-stats        0 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +101,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2025 18:40:25 UTC
+ Last Updated on 21/01/2025 18:42:16 UTC
 <!--END_SECTION:waka-->
