@@ -33,7 +33,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -72,17 +72,17 @@ Sunday                   37 commits          ████████░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   0 hrs 28 mins       ██████████████████████░░░   87.13 % 
-unknown                  0 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Bash                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   0 hrs 30 mins       ██████████████████████░░░   87.89 % 
+unknown                  0 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Bash                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Neovim                   0 hrs 32 mins       █████████████████████████   100.00 % 
+Neovim                   0 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-telerok                  0 hrs 24 mins       ███████████████████░░░░░░   76.72 % 
-unknown                  0 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-waka-readme-stats        0 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+telerok                  0 hrs 24 mins       ██████████████████░░░░░░░   72.17 % 
+unknown                  0 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+waka-readme-stats        0 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,5 +101,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2025 18:42:16 UTC
+ Last Updated on 22/01/2025 18:42:45 UTC
 <!--END_SECTION:waka-->
