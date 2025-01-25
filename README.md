@@ -35,7 +35,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,5 +100,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2025 18:41:21 UTC
+ Last Updated on 25/01/2025 18:38:23 UTC
 <!--END_SECTION:waka-->
