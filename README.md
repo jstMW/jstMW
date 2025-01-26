@@ -33,7 +33,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,16 +72,16 @@ Sunday                   37 commits          ████████░░░�
 
 ```text
 💬 Programming Languages: 
-C                        0 hrs 10 mins       ██████████████░░░░░░░░░░░   55.44 % 
-unknown                  0 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Python                   0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+C                        0 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.87 % 
+unknown                  0 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.08 % 
+Python                   0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 
 🔥 Editors: 
-Neovim                   0 hrs 18 mins       █████████████████████████   100.00 % 
+Neovim                   0 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-unknown                  0 hrs 16 mins       ██████████████████████░░░   88.84 % 
-waka-readme-stats        0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+unknown                  0 hrs 18 mins       ██████████████████████░░░   89.96 % 
+waka-readme-stats        0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,5 +100,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 18:38:23 UTC
+ Last Updated on 26/01/2025 18:39:59 UTC
 <!--END_SECTION:waka-->
