@@ -33,13 +33,15 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 27.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 29 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -72,18 +74,18 @@ Sunday                   37 commits          █████████░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 hrs 46 mins       ██████████████████░░░░░░░   71.85 % 
-unknown                  0 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-JAVA                     0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Java                     2 hrs 51 mins       █████████████████░░░░░░░░   68.46 % 
+unknown                  1 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+JAVA                     0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Neovim                   1 hrs 48 mins       ██████████████████░░░░░░░   73.20 % 
-Firefox                  0 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-Intellijidea             0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Neovim                   3 hrs 12 mins       ███████████████████░░░░░░   76.60 % 
+Firefox                  0 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Intellijidea             0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-assignment-2-jstMW       1 hrs 42 mins       █████████████████░░░░░░░░   69.36 % 
-unknown                  0 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
+assignment-2-jstMW       2 hrs 51 mins       █████████████████░░░░░░░░   68.32 % 
+unknown                  1 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.68 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,5 +105,5 @@ Go                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2025 18:43:05 UTC
+ Last Updated on 19/02/2025 18:42:36 UTC
 <!--END_SECTION:waka-->
