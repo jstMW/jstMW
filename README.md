@@ -33,13 +33,15 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 20 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -72,19 +74,16 @@ Sunday                   28 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.32 % 
-Image (svg)              0 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.70 % 
-unknown                  0 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Markdown                 0 hrs 45 mins       ███████████████████░░░░░░   75.19 % 
+unknown                  0 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 
 🔥 Editors: 
-Firefox                  0 hrs 50 mins       █████████████░░░░░░░░░░░░   52.68 % 
-Obsidian                 0 hrs 45 mins       ████████████░░░░░░░░░░░░░   47.32 % 
+Obsidian                 0 hrs 45 mins       ███████████████████░░░░░░   75.19 % 
+Firefox                  0 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 
 🐱‍💻 Projects: 
-unknown                  1 hrs 1 mins        ████████████████░░░░░░░░░   65.07 % 
-As2                      0 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.69 % 
-rmview                   0 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Health Dashboard         0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+unknown                  0 hrs 55 mins       ███████████████████████░░   93.26 % 
+rmview                   0 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
 
 **I Mostly Code in Go** 
@@ -101,5 +100,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 18:34:24 UTC
+ Last Updated on 09/03/2025 18:34:55 UTC
 <!--END_SECTION:waka-->
