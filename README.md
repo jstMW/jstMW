@@ -33,15 +33,13 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.3 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -74,16 +72,18 @@ Sunday                   28 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 hrs 45 mins       ███████████████████░░░░░░   75.19 % 
-unknown                  0 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+unknown                  0 hrs 15 mins       ██████████████████████░░░   88.20 % 
+Markdown                 0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🔥 Editors: 
-Obsidian                 0 hrs 45 mins       ███████████████████░░░░░░   75.19 % 
-Firefox                  0 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Firefox                  0 hrs 15 mins       ██████████████████████░░░   88.20 % 
+Obsidian                 0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 
 🐱‍💻 Projects: 
-unknown                  0 hrs 55 mins       ███████████████████████░░   93.26 % 
-rmview                   0 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+unknown                  0 hrs 10 mins       ███████████████░░░░░░░░░░   59.06 % 
+rmview                   0 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+7kaa                     0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+OpenRA                   0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 ```
 
 **I Mostly Code in Go** 
@@ -100,5 +100,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 09/03/2025 18:34:55 UTC
+ Last Updated on 10/03/2025 18:42:50 UTC
 <!--END_SECTION:waka-->
