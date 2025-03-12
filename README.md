@@ -33,7 +33,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -72,16 +72,15 @@ Sunday                   28 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-unknown                  0 hrs 21 mins       █████████████████████████   100.00 % 
-Markdown                 0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+unknown                  0 hrs 19 mins       ███████████████████████░░   90.45 % 
+Markdown                 0 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🔥 Editors: 
-Firefox                  0 hrs 21 mins       █████████████████████████   100.00 % 
-Obsidian                 0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Firefox                  0 hrs 19 mins       ███████████████████████░░   90.45 % 
+Obsidian                 0 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🐱‍💻 Projects: 
-unknown                  0 hrs 14 mins       █████████████████░░░░░░░░   66.88 % 
-rmview                   0 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+unknown                  0 hrs 18 mins       █████████████████████░░░░   85.99 % 
 7kaa                     0 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 OpenRA                   0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
@@ -100,5 +99,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 18:44:36 UTC
+ Last Updated on 12/03/2025 18:44:40 UTC
 <!--END_SECTION:waka-->
