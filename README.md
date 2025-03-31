@@ -41,6 +41,8 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 > 📦 22.3 kB Used in GitHub's Storage 
  > 
+> 🏆 21 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -72,13 +74,13 @@ Sunday                   28 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-unknown                  0 hrs 37 mins       █████████████████████████   100.00 % 
+unknown                  0 hrs 32 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Firefox                  0 hrs 37 mins       █████████████████████████   100.00 % 
+Firefox                  0 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-unknown                  0 hrs 37 mins       █████████████████████████   100.00 % 
+unknown                  0 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -95,5 +97,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 18:41:19 UTC
+ Last Updated on 31/03/2025 18:45:23 UTC
 <!--END_SECTION:waka-->
