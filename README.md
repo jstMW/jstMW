@@ -33,15 +33,13 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 22.3 kB Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -74,13 +72,13 @@ Sunday                   28 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-unknown                  0 hrs 30 mins       █████████████████████████   100.00 % 
+unknown                  0 hrs 18 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Firefox                  0 hrs 30 mins       █████████████████████████   100.00 % 
+Firefox                  0 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-unknown                  0 hrs 30 mins       █████████████████████████   100.00 % 
+unknown                  0 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -97,5 +95,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 18:45:22 UTC
+ Last Updated on 03/04/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
