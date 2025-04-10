@@ -33,7 +33,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,15 +74,15 @@ Sunday                   28 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-Java                     0 hrs 49 mins       ████████████████████░░░░░   80.24 % 
-unknown                  0 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Java                     0 hrs 49 mins       ███████████████████░░░░░░   77.68 % 
+unknown                  0 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 
 🔥 Editors: 
-Neovim                   0 hrs 49 mins       ████████████████████░░░░░   80.24 % 
-Firefox                  0 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Neovim                   0 hrs 49 mins       ███████████████████░░░░░░   77.68 % 
+Firefox                  0 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 
 🐱‍💻 Projects: 
-unknown                  1 hrs 1 mins        █████████████████████████   100.00 % 
+unknown                  1 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -99,5 +99,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2025 18:44:53 UTC
+ Last Updated on 10/04/2025 18:43:06 UTC
 <!--END_SECTION:waka-->
