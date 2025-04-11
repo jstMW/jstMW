@@ -33,7 +33,7 @@ Thanks to <img width="20" hight="20" alt="github_ABSphreak_profile_picture" src=
 
 ## more stat by Wakapi hosted at my website :)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -99,5 +99,5 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/jstMW/jstMW/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 18:43:06 UTC
+ Last Updated on 11/04/2025 18:44:41 UTC
 <!--END_SECTION:waka-->
